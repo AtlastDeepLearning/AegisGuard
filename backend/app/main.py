@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-from app.api.api import api_app_router
+from backend.app.api.api import api_app_router
 
 # Main application
 app = FastAPI(title="AegisGuard API", description="AegisGuard API", version="1.0.0")
