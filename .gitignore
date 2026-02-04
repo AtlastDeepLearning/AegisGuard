@@ -1,0 +1,11 @@
+# ignore current projects virtual environment
+.venv/
+__pycache__/
+
+# Ignore user settings and temp files
+.vscode/
+*.log
+.DS_Store
+
+# Ignore compiled python files
+*.pyc

@@ -1,0 +1,7 @@
+aegisguard project
+
+I have 2 projects that uses AI to detect threats in realtime within the directory this subfolder is in 
+
+I want to merge both of those and then apply all the things that i have learned in the Google Cybersecurity Professional Certificate(v.2) 
+like suricata and ip address monitoring I also want to make my own ver of like dashboard to monitor the threats and all I also want to implement
+a llm feature where i train something using t5 to help in text generation for the reports and all  what do you think?
